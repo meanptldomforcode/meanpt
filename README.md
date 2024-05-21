@@ -1,7 +1,4 @@
 # meanpt
-first stage to learn Hello everyone!
-
-
-
-
-ctrl+Enter to break the line
+first stage to learn <br> Hello everyone! 
+<br>
+Use some html to keep thins neat.
